@@ -1,1 +1,6 @@
-@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --color-stone-100: rgb(243, 229, 215);
+}
